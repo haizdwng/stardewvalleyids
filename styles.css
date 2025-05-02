@@ -434,7 +434,7 @@ button#copyNBatch {
 
 .items-table {
   table-layout: fixed;
-  font-family: Inter, sans-serif;
+  font-family: "Inter", sans-serif;
   border-collapse: collapse;
   min-width: 500px;
   width: 80vw;
