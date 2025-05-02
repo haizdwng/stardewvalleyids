@@ -1,7 +1,7 @@
 const Strings = {
   copy: {
     "en-US": "Copy",
-    "vi-VN": "Sao Chép, ",
+    "vi-VN": "Sao Chép",
   },
   copyN: {
     "en-US": "Copy Many",
@@ -68,8 +68,8 @@ const Strings = {
     "vi-VN": `Đây là mục nâng cao nơi bạn có thể tự do nhập bất kỳ nội dung nào để được chuyển thành đoạn thoại trong khung hội thoại của Marnie. Nội dung này có thể bao gồm một số <a href="https://stardewvalleywiki.com/Modding:Dialogue" rel="noopener" target="_blank">lệnh thoại</a> và <a href="https://stardewvalleywiki.com/Modding:Trigger_actions" rel="noopener" target="_blank">hành động kích hoạt</a>.`,
   },
   "free-description2": {
-    "en-US": `<span>You may also want to visit Stardew Dialogue Command Generator for additional tools, such as friendship and power commands using the <code>\${^^}$</code> replacement glitch:</span><a href="https://bellabeababy.github.io/SDV-Dialogue-Glitch" target="_blank"><img src="public/images/sdcg.png" alt="Item" loading="lazy"></a><span class="source">ref: <a href="https://bellabeababy.github.io/SDV-Dialogue-Glitch" target="_blank">https://bellabeababy.github.io/SDV-Dialogue-Glitch</a></span>`,
-    "vi-VN": `<span>Bạn cũng có thể muốn ghé thăm Stardew Dialogue Command Generator để sử dụng thêm các công cụ khác, chẳng hạn như lệnh tình bạn và lệnh sức mạnh bằng cách dùng lỗi thay thế <code>\${^^}$</code>:</span><a href="https://bellabeababy.github.io/SDV-Dialogue-Glitch" target="_blank"><img src="public/images/sdcg.png" alt="Item" loading="lazy"></a><span class="source">tham khảo: <a href="https://bellabeababy.github.io/SDV-Dialogue-Glitch" target="_blank">https://bellabeababy.github.io/SDV-Dialogue-Glitch</a></span>`,
+    "en-US": `<span>You may also want to visit the Stardew Valley Save Editor for tools to edit your save files:</span><a href="https://colecrouter.github.io/stardew-save-editor" target="_blank"><img src="assets/images/svse.png" alt="Item" loading="lazy"></a><span class="source">ref: <a href="https://colecrouter.github.io/stardew-save-editor" target="_blank">https://colecrouter.github.io/stardew-save-editor</a></span>`,
+    "vi-VN": `<span>Bạn cũng có thể muốn ghé thăm Stardew Valley Save Editor để sử dụng công cụ chỉnh sửa file lưu của bạn:</span><a href="https://colecrouter.github.io/stardew-save-editor" target="_blank"><img src="assets/images/svse.png" alt="Item" loading="lazy"></a><span class="source">Tham khảo: <a href="https://colecrouter.github.io/stardew-save-editor" target="_blank">https://colecrouter.github.io/stardew-save-editor</a></span>`,
   },
   "modal-description": {
     "en-US": "Type the number of items you want to copy:",
